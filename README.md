@@ -3,10 +3,7 @@ Mobile device management (MDM)  Take control of iOS, Android, macOS, Windows, an
 
 [youtube](https://youtu.be/npFhJfWfWoo)
 
-
-![tt](.//pictures/IBM_MaaS360_12.png)
-
-![tt](.//pictures/IBM_MaaS360_02.png)
+![tt](.//pictures/IBM_MaaS360_15.png)
 
 ## Bring your own device (BYOD)
 
