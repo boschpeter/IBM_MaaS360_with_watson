@@ -24,43 +24,25 @@ Enterprise mobility means control over any type of device, whether a smartphone,
 
 ![tt](.//pictures/IBM_MaaS260_28.png)
 
-![tt](..//pictures/IBM_MaaS360_00.png)
-
-![tt](..//pictures/IBM_MaaS360_01.png)
-
-![tt](..//pictures/IBM_MaaS360_02.png)
-
-![tt](..//pictures/IBM_MaaS360_03.png)
-
-![tt](..//pictures/IBM_MaaS360_04.png)
-
-![tt](..//pictures/IBM_MaaS360_05.png)
-
-![tt](..//pictures/IBM_MaaS360_06.png)
-
-![tt](..//pictures/IBM_MaaS360_07.png)
-
-![tt](..//pictures/IBM_MaaS360_08.png)
-
-![tt](..//pictures/IBM_MaaS360_09.png)
-
-![tt](..//pictures/IBM_MaaS360_10.png)
-
-![tt](..//pictures/IBM_MaaS360_11.png)
-
-![tt](..//pictures/IBM_MaaS360_12.png)
-
-![tt](..//pictures/IBM_MaaS360_13.png)
-
-![tt](..//pictures/IBM_MaaS360_14.png)
-
-![tt](..//pictures/IBM_MaaS360_15.png)
-
-![tt](..//pictures/IBM_MaaS360_16.png)
-
-![tt](..//pictures/IBM_MaaS360_17.png)
-
-![tt](..//pictures/IBM_MaaS360_18.png)
+![tt](.//pictures/IBM_MaaS360_00.png)
+![tt](.//pictures/IBM_MaaS360_01.png)
+![tt](.//pictures/IBM_MaaS360_02.png)
+![tt](.//pictures/IBM_MaaS360_03.png)
+![tt](.//pictures/IBM_MaaS360_04.png)
+![tt](.//pictures/IBM_MaaS360_05.png)
+![tt](.//pictures/IBM_MaaS360_06.png)
+![tt](.//pictures/IBM_MaaS360_07.png)
+![tt](.//pictures/IBM_MaaS360_08.png)
+![tt](.//pictures/IBM_MaaS360_09.png)
+![tt](.//pictures/IBM_MaaS360_10.png)
+![tt](.//pictures/IBM_MaaS360_11.png)
+![tt](.//pictures/IBM_MaaS360_12.png)
+![tt](.//pictures/IBM_MaaS360_13.png)
+![tt](.//pictures/IBM_MaaS360_14.png)
+![tt](.//pictures/IBM_MaaS360_15.png)
+![tt](.//pictures/IBM_MaaS360_16.png)
+![tt](.//pictures/IBM_MaaS360_17.png)
+![tt](.//pictures/IBM_MaaS360_18.png)
 
 
 
