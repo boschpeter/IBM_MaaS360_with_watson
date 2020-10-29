@@ -23,7 +23,7 @@ Enterprise mobility means control over any type of device, whether a smartphone,
 [Take control](https://www.ibm.com/nl-en/security/mobile/maas360/mobile-device-management) of iOS, Android, macOS, Windows, and Chrome OS devices — from smartphones, tablets, laptops, and desktops to ruggedized and internet of things (IoT) endpoints. Granular device policy and remote support help customize device deployments for any use case.
 
 
-![tt[(.//pictures/IBM_MaaS260_00.png)
+![tt[(..//pictures/IBM_MaaS260_00.png)
 
 ![tt[(.//pictures/IBM_MaaS260_01.png)
 
